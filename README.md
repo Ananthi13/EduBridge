@@ -1,2 +1,2 @@
-# EduBridge
+# EduBridgeAssignment
 Assignment
